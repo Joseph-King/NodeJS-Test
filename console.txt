@@ -55,3 +55,6 @@ Hello World
 
 E:\Programming\GitHub-Repositories\NodeJS-Test>node app
 Server start on port3000
+^C
+E:\Programming\GitHub-Repositories\NodeJS-Test>node app
+Server start on port3000
