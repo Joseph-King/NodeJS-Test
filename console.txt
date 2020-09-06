@@ -1,0 +1,57 @@
+
+E:\Programming\GitHub-Repositories\NodeJS-Test>node app.js
+Hello world
+
+E:\Programming\GitHub-Repositories\NodeJS-Test>node app
+Hello World
+
+E:\Programming\GitHub-Repositories\NodeJS-Test>npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defaults.
+
+See `npm help init` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg>` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (nodejs-test)
+version: (1.0.0)
+description: Test app
+entry point: (app.js)
+test command:
+git repository: (https://github.com/Joseph-King/NodeJS-Test.git)
+keywords:
+author: Joseph King
+license: (ISC)
+About to write to E:\Programming\GitHub-Repositories\NodeJS-Test\package.json:
+
+{
+  "name": "nodejs-test",
+  "version": "1.0.0",
+  "description": "Test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joseph-King/NodeJS-Test.git"
+  },
+  "author": "Joseph King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joseph-King/NodeJS-Test/issues"
+  },
+  "homepage": "https://github.com/Joseph-King/NodeJS-Test#readme"
+}
+
+
+Is this OK? (yes)
+
+E:\Programming\GitHub-Repositories\NodeJS-Test>node app
+Hello World
+
+E:\Programming\GitHub-Repositories\NodeJS-Test>node app
+Server start on port3000
